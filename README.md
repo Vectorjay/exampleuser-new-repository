@@ -1,1 +1,1 @@
-# exampleuser-new-repository
+# exampleuser/new-repository
